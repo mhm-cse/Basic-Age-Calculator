@@ -21,7 +21,6 @@ It helps users quickly find out their age in years by entering their birth date.
 ## Project Structure
 Basic-Age-Calculator/
 
-│
 ├── index.html
 
 ├── style.css
