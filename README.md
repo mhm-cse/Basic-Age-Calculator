@@ -1,6 +1,7 @@
 # ***Basic Age Calculator***
 
-The Basic Age Calculator is a simple application that calculates a user’s age based on their date of birth. It helps users quickly find out their age in years by entering their birth date.
+The Basic Age Calculator is a simple application that calculates a user’s age based on their date of birth.
+It helps users quickly find out their age in years by entering their birth date.
 
 ## Technologies Used
 
@@ -15,13 +16,13 @@ The Basic Age Calculator is a simple application that calculates a user’s age 
 - Instant and accurate result
 - Lightweight and easy to use
 
-# How to Use
+## How to Use
 
 - Enter your Date of Birth in the input field.
 - Click on the Calculate Age button.
 - The application will display your age instantly.
 
-# Project Structure
+## Project Structure
 Basic-Age-Calculator/
 
 │
